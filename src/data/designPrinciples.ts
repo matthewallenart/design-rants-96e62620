@@ -8,279 +8,267 @@ export interface DesignPrinciple {
 
 export const designPrinciples: DesignPrinciple[] = [
   {
-    category: "General Design & UX",
-    highlightedWord: "Law of Prägnanz",
-    reference: "Gestalt Psychology",
-    quoteText: "People will perceive and interpret ambiguous or complex images as the simplest form(s) possible."
+    category: "UX Issues",
+    highlightedWord: "Country-selection dropdown fails",
+    reference: "linkedin.com",
+    quoteText: "There must be a special space in UX hell reserved for developers who are too lazy to write a line of code to put the 90% likely responses at the top of a country selection drop down list."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Von Restorff Effect (Isolation Effect)",
-    reference: "Hedwig von Restorff",
-    quoteText: "When multiple similar objects are present, the one that differs is more likely to be remembered."
+    category: "Industry Problems",
+    highlightedWord: "UX fatigue & burnout",
+    reference: "linkedin.com",
+    quoteText: "I'm sick of seeing the amount of people in design hating what they do and leave the industry."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Zeigarnik Effect",
-    reference: "Bluma Zeigarnik",
-    quoteText: "People remember uncompleted or interrupted tasks better than completed ones."
+    category: "Design Confusion",
+    highlightedWord: "UX ≠ UI",
+    reference: "linkedin.com",
+    quoteText: "I don't even work in UX and somehow I still feel personally attacked by bad design… It's wild how often 'keep them engaged as long as possible' turns into 'trap them in a digital escape room'."
   },
   {
-    category: "UX Writing & Interaction",
-    highlightedWord: "Aesthetic-Integrity Tradeoff",
-    reference: "Apple HIG",
-    quoteText: "Visual design should match the app's function — not just look good."
+    category: "Hiring Issues",
+    highlightedWord: "Recruiters disrespecting UX candidates",
+    reference: "linkedin.com",
+    quoteText: "Recruiters sending out assignments before even having a basic conversation… Candidates deserve to know who you are and how genuine your intentions are before they pour their time and effort into assessments."
   },
   {
-    category: "Product Strategy",
-    highlightedWord: "Jobs to Be Done (JTBD)",
-    reference: "Clayton Christensen",
-    quoteText: "People \"hire\" products to do a specific job — design should support that."
+    category: "Design Philosophy",
+    highlightedWord: "Over‑engineering & losing simplicity",
+    reference: "linkedin.com",
+    quoteText: "Management prioritizes dense wireframes and business goals over simplicity and actual user needs."
   },
   {
-    category: "Human Behavior",
-    highlightedWord: "Social Proof",
-    reference: "Robert Cialdini",
-    quoteText: "Users will do what they see others doing — used in design for credibility and behavior influence."
+    category: "Platform Issues",
+    highlightedWord: "UXers slam LinkedIn's design culture",
+    reference: "reddit.com",
+    quoteText: "I f**king hate LinkedIn. It's a nonstop kiss ass… Hate that it's so ingrained within the corporate world now."
   },
   {
-    category: "Interaction Design",
-    highlightedWord: "Feedback Principle",
-    reference: "Donald Norman",
-    quoteText: "The system should provide feedback to users to confirm their actions."
+    category: "Design Trends",
+    highlightedWord: "Stop hiding tools in modern UX",
+    reference: "linkedin.com",
+    quoteText: "Modern UX design has been hijacked by an obsession with minimalism… bury common actions behind additional clicks, gestures, or cryptic menus… software built for grandma."
   },
   {
-    category: "Cognitive Psychology",
-    highlightedWord: "Peak-End Rule",
-    reference: "Daniel Kahneman",
-    quoteText: "People judge experiences largely based on how they felt at the peak and end."
+    category: "Authentication UX",
+    highlightedWord: "Awful UX of login codes",
+    reference: "linkedin.com",
+    quoteText: "The text/email never comes… messaging around the code is long, obtuse… can't copy-and-paste the code."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Dieter Rams' 10 Principles of Good Design",
-    reference: "Dieter Rams (Braun)",
-    quoteText: "Iconic minimalist principles such as \"Good design is as little design as possible.\""
+    category: "Business vs UX",
+    highlightedWord: "UX designer's rant about QR code menus",
+    reference: "linkedin.com",
+    quoteText: "UX should consider the best experience… this is not it."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "The Design of Everyday Things",
-    reference: "Don Norman",
-    quoteText: "Emphasizes user-centered design and affordances; key to modern UX thinking."
+    category: "Industry Evolution",
+    highlightedWord: "UX rot — \"UX is over?\"",
+    reference: "reddit.com",
+    quoteText: "UX as a fundamental approach… 10 years ago is rotten, dead, over."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Jakob's Law",
-    reference: "Jakob Nielsen",
-    quoteText: "Users prefer your site to work the same way as others they already know."
+    category: "Industry Problems",
+    highlightedWord: "The way we use 'UX design' today feels wrong",
+    reference: "reddit.com",
+    quoteText: "Systems made by engineers and businessmen… sorely need UX designers."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Hick's Law",
-    reference: "William Edmund Hick",
-    quoteText: "Time to make a decision increases with the number of choices."
+    category: "Job Market",
+    highlightedWord: "Job market kicking my arse — a rant!",
+    reference: "reddit.com",
+    quoteText: "I can register… reach out… recruiters ghost after interviews."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Fitts's Law",
-    reference: "Paul Fitts",
-    quoteText: "Predicts the time required to rapidly move to a target area."
+    category: "Design Trends",
+    highlightedWord: "Flat design is \"a cancer\"",
+    reference: "reddit.com",
+    quoteText: "Flat design and WebUIs are a cancer on the industry… flat objects, limited color… ruining the internet and making our lives worse."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Pareto Principle (80/20 Rule)",
-    reference: "Vilfredo Pareto",
-    quoteText: "80% of effects come from 20% of causes; focus on the vital few."
+    category: "UI Problems",
+    highlightedWord: "Why is UI/UX so awful now?",
+    reference: "reddit.com",
+    quoteText: "The form's job is to capture the data inputted… it should have few opinions on what that data needs to look like."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Occam's Razor",
-    reference: "William of Ockham",
-    quoteText: "Simpler solutions are more likely to be correct than complex ones."
+    category: "Design Philosophy",
+    highlightedWord: "A rant against pretty app designs",
+    reference: "toptal.com",
+    quoteText: "Superficial app designs… ignore basic usability conventions… more than 50% would have a hard time … and would give up in confusion."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "KISS (Keep It Simple, Stupid)",
-    reference: "U.S. Navy (1960)",
-    quoteText: "Simplicity should be a key goal in design."
+    category: "UI Examples",
+    highlightedWord: "10 Bad UI Examples That Hurt UX",
+    reference: "ofspace.co",
+    quoteText: "Poor interface creates confusion… these bad UI drive users away and hurt business growth."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Law of Proximity",
-    reference: "Gestalt Psychology",
-    quoteText: "Objects close to each other are perceived as a group."
+    category: "Form UX",
+    highlightedWord: "Get Your Sign Up UI Right",
+    reference: "duck.design",
+    quoteText: "Poor error handling and double-entry fields… confirmation email issues drive users mad."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Miller's Law",
-    reference: "George A. Miller",
-    quoteText: "The average person can hold 7±2 items in working memory."
+    category: "Platform Issues",
+    highlightedWord: "Twitter UI/UX overwhelming",
+    reference: "reddit.com",
+    quoteText: "Seriously, Twitter's UI/UX is ridiculously complex… I can't stay more than 10 minutes without feeling overwhelmed."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Tesler's Law",
-    reference: "Larry Tesler",
-    quoteText: "Every application has an inherent amount of complexity that cannot be reduced."
+    category: "Industry Problems",
+    highlightedWord: "UX writers too image-obsessed",
+    reference: "reddit.com",
+    quoteText: "UX writer profession has turned vapid & image obsessed… lecturing, meetups more important than actual quality work."
   },
   {
-    category: "General Design & UX",
-    highlightedWord: "Aesthetic-Usability Effect",
-    reference: "Nielsen Norman Group",
-    quoteText: "Users perceive aesthetically pleasing design as more usable."
+    category: "Industry Problems",
+    highlightedWord: "UX is a joke and it's inexcusable",
+    reference: "designweek.co.uk",
+    quoteText: "When UX becomes a punchline—CAPTCHA, password creation, cookie banners—it's embarrassing."
   },
   {
-    category: "Graphic & Visual Design",
-    highlightedWord: "Grid System",
-    reference: "Josef Müller-Brockmann",
-    quoteText: "Structured layout system for clear, effective visual communication."
+    category: "Platform Issues",
+    highlightedWord: "Elon Musk is downfall of Twitter's UX",
+    reference: "popcreative.co.uk",
+    quoteText: "By monetising features, restricting views, Twitter annoyances drive users away targeting paid tiers."
   },
   {
-    category: "Graphic & Visual Design",
-    highlightedWord: "Form Follows Function",
-    reference: "Louis Sullivan (Architect)",
-    quoteText: "The shape of a building or object should relate to its intended function."
+    category: "Industry Problems",
+    highlightedWord: "UX LinkedIn brain rot",
+    reference: "reddit.com",
+    quoteText: "Everyone posting low‑quality AI slop on LinkedIn… LinkedIn is trash, MySpace for professionals now."
   },
   {
-    category: "Graphic & Visual Design",
-    highlightedWord: "CRAP (Contrast, Repetition, Alignment, Proximity)",
-    reference: "Robin Williams",
-    quoteText: "Core principles for effective visual design."
+    category: "Design Trends",
+    highlightedWord: "UX becoming invasive spammy",
+    reference: "reddit.com",
+    quoteText: "Feature‑heavy UIs with pop‑ups, permission spam, tooltips everywhere… feels like ad spam."
   },
   {
-    category: "Graphic & Visual Design",
-    highlightedWord: "Golden Ratio / Rule of Thirds",
-    reference: "Ancient Greeks",
-    quoteText: "Classical proportions for visual harmony and balance."
+    category: "Industry Problems",
+    highlightedWord: "UX influencers hurt work",
+    reference: "reddit.com",
+    quoteText: "UX influencers making unrealistic expectations… degrade work, hinder maturity, oversell simplistic roles."
   },
   {
-    category: "Cognitive & Behavioral Design",
-    highlightedWord: "Nudge Theory",
-    reference: "Richard Thaler & Cass Sunstein",
-    quoteText: "Subtle changes in design can influence behavior and decisions."
+    category: "Industry Problems",
+    highlightedWord: "Pioneer horrified: UX theater",
+    reference: "reddit.com",
+    quoteText: "UX processes are mostly theater—appearance over insight, just enough to appease business leaders."
   },
   {
-    category: "Cognitive & Behavioral Design",
-    highlightedWord: "Peak-End Rule",
-    reference: "Daniel Kahneman",
-    quoteText: "People judge experiences based on how they felt at the peak and end."
+    category: "Platform Issues",
+    highlightedWord: "Instagram UX degradation",
+    reference: "reddit.com",
+    quoteText: "UX got worse—teams tweak wherever, remove features gradually, no regard for consistency."
   },
   {
-    category: "Cognitive & Behavioral Design",
-    highlightedWord: "Zeigarnik Effect",
-    reference: "Bluma Zeigarnik",
-    quoteText: "People remember uncompleted or interrupted tasks better than completed ones."
+    category: "Industry Problems",
+    highlightedWord: "Corporate UX burnout",
+    reference: "reddit.com",
+    quoteText: "Worked in corporate UX—10 people quit this year… stuck in hamster wheel with stressed boss."
   },
   {
-    category: "Digital/Product Design",
-    highlightedWord: "Material Design Principles",
-    reference: "Google",
-    quoteText: "Guidelines for creating intuitive and responsive UIs."
+    category: "Industry Problems",
+    highlightedWord: "Bad UX designers — cheap friends",
+    reference: "medium.com",
+    quoteText: "Clients choose cheap 'friend' UX designer—result is inaccessible, inconsistent, broken."
   },
   {
-    category: "Digital/Product Design",
-    highlightedWord: "Apple's Human Interface Guidelines",
-    reference: "Apple",
-    quoteText: "Design principles emphasizing clarity, deference, and depth."
+    category: "Design Philosophy",
+    highlightedWord: "Rant against pretty designs",
+    reference: "hub.editiondigital.com",
+    quoteText: "Tiny touch targets, low contrast, unlabeled icons—pretty designs making UI less usable."
   },
   {
-    category: "Digital/Product Design",
-    highlightedWord: "Atomic Design",
-    reference: "Brad Frost",
-    quoteText: "Design systems approach that builds interfaces from small reusable components."
+    category: "Platform Issues",
+    highlightedWord: "Another tweetstorm notifications rant",
+    reference: "avc.com",
+    quoteText: "Notifications are noise, app constellations are lazy UX—notifications should not be mandates."
   },
   {
-    category: "UX / Interaction Design",
-    highlightedWord: "Fitts's Law",
-    reference: "Paul Fitts",
-    quoteText: "The time to acquire a target is a function of the distance to and size of the target."
+    category: "Platform Issues",
+    highlightedWord: "Twitter in-group bullying UX",
+    reference: "natdudley.com",
+    quoteText: "Pile‑ons and replies overwhelm users—Twitter UX encourages toxic interactions."
   },
   {
-    category: "UX / Usability",
-    highlightedWord: "Jakob's Law",
-    reference: "Jakob Nielsen",
-    quoteText: "Users spend most time on other sites; design should follow common patterns they know."
+    category: "Design Consistency",
+    highlightedWord: "Redesigns breaking everything",
+    reference: "reddit.com",
+    quoteText: "Every time there's a redesign, something breaks. Nothing feels stable anymore."
   },
   {
-    category: "UX / Usability",
-    highlightedWord: "Hick's Law",
-    reference: "William Edmund Hick",
-    quoteText: "Decision time increases logarithmically with the number of choices."
+    category: "Design Trends",
+    highlightedWord: "Design trends over users",
+    reference: "linkedin.com",
+    quoteText: "Neumorphism, glassmorphism... who is this for? Not real users."
   },
   {
-    category: "UX / Usability",
-    highlightedWord: "Miller's Law",
-    reference: "George A. Miller",
-    quoteText: "The average person can hold 7 ± 2 items in working memory."
+    category: "Form UX",
+    highlightedWord: "Forms still suck in 2024",
+    reference: "reddit.com",
+    quoteText: "Still too many multi-page forms with awful validation, unclear inputs."
   },
   {
-    category: "Cognitive Psychology",
-    highlightedWord: "Serial Position Effect",
-    reference: "Hermann Ebbinghaus",
-    quoteText: "People tend to remember the first and last items in a series better than the middle ones."
+    category: "Mobile UX",
+    highlightedWord: "Mobile hamburger hell",
+    reference: "reddit.com",
+    quoteText: "Why does every app bury navigation behind the same hamburger menu with 9+ items?"
   },
   {
-    category: "UX / Visual Design",
-    highlightedWord: "Gestalt Principles",
-    reference: "Gestalt Psychology",
-    quoteText: "Includes proximity, similarity, closure, continuity, and figure-ground — how users group elements."
+    category: "UX States",
+    highlightedWord: "Empty state neglect",
+    reference: "reddit.com",
+    quoteText: "Why is the empty state always an afterthought? This is the first impression."
   },
   {
-    category: "UX / Accessibility",
-    highlightedWord: "Contrast Sensitivity",
-    reference: "Accessibility Guidelines",
-    quoteText: "Ensure sufficient contrast between text and background for readability by all users."
+    category: "Design Trends",
+    highlightedWord: "Dark mode UX nightmares",
+    reference: "reddit.com",
+    quoteText: "Designers love dark mode. Most users can't even read half the content."
   },
   {
-    category: "UX / Writing",
-    highlightedWord: "Plain Language",
-    reference: "Plain Language Movement",
-    quoteText: "Use simple, clear language to improve comprehension and reduce cognitive load."
+    category: "UX Writing",
+    highlightedWord: "Copy UX is ignored",
+    reference: "reddit.com",
+    quoteText: "I'm begging someone to write the error message like a human. Not 'Error 342XZ.'"
   },
   {
-    category: "Product Design",
-    highlightedWord: "MoSCoW Prioritization",
-    reference: "Dai Clegg",
-    quoteText: "Prioritize features as Must have, Should have, Could have, Won't have to focus development."
+    category: "Accessibility",
+    highlightedWord: "Accessibility is an afterthought",
+    reference: "linkedin.com",
+    quoteText: "No alt text. Poor focus control. Modals that trap keyboard users. Every. Time."
   },
   {
-    category: "UX / Behavior Design",
-    highlightedWord: "Peak-End Rule",
-    reference: "Daniel Kahneman",
-    quoteText: "People judge experiences based mostly on how they felt at the peak and the end, not the total."
+    category: "Design Process",
+    highlightedWord: "Designers aren't listening",
+    reference: "reddit.com",
+    quoteText: "Every update is more colors, more animation… no one fixes what's broken."
   },
   {
-    category: "Visual Design",
-    highlightedWord: "Rule of Thirds",
-    reference: "Traditional Art & Photography",
-    quoteText: "Divide visuals into thirds vertically and horizontally to create balanced, interesting composition."
+    category: "Onboarding UX",
+    highlightedWord: "The UX of onboarding is broken",
+    reference: "reddit.com",
+    quoteText: "Onboarding = show tooltips, bury docs. Not enough support for actual learning."
   },
   {
-    category: "Interaction Design",
-    highlightedWord: "Progressive Disclosure",
-    reference: "Usability Expert John Carroll",
-    quoteText: "Show users only necessary information at a time to reduce overwhelm."
+    category: "Voice UX",
+    highlightedWord: "Voice UX isn't there yet",
+    reference: "reddit.com",
+    quoteText: "Tried 5 times to order using voice, none worked. Still easier to tap."
   },
   {
-    category: "Cognitive Psychology",
-    highlightedWord: "Cognitive Load Theory",
-    reference: "John Sweller",
-    quoteText: "Avoid overloading users' mental capacity for better learning and task performance."
+    category: "Mobile UX",
+    highlightedWord: "Touch targets too small",
+    reference: "reddit.com",
+    quoteText: "Why are the buttons for core actions still 24px wide on mobile?"
   },
   {
-    category: "UX / Behavior Design",
-    highlightedWord: "Endowment Effect",
-    reference: "Behavioral Economics",
-    quoteText: "People value things they own more than things they do not own, influencing design decisions."
-  },
-  {
-    category: "UX / Visual Design",
-    highlightedWord: "Consistency Principle",
-    reference: "UX Best Practice",
-    quoteText: "Maintain consistency in design elements to improve usability and learnability."
-  },
-  {
-    category: "UX / Error Prevention",
-    highlightedWord: "Prevent Errors Principle",
-    reference: "Jakob Nielsen",
-    quoteText: "Design should prevent problems before they occur rather than relying on error messages."
+    category: "UI Patterns",
+    highlightedWord: "Tooltips everywhere now",
+    reference: "reddit.com",
+    quoteText: "Tooltips covering half the UI. I know what a button does. Let me click."
   }
 ];
