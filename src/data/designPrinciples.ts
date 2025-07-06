@@ -1,3 +1,4 @@
+
 export interface DesignPrinciple {
   category: string;
   highlightedWord: string;
