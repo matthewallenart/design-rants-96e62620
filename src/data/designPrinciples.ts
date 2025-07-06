@@ -158,6 +158,18 @@ export const designPrinciples: DesignPrinciple[] = [
     quoteText: "Subtle changes in design can influence behavior and decisions."
   },
   {
+    category: "Cognitive & Behavioral Design",
+    highlightedWord: "Peak-End Rule",
+    reference: "Daniel Kahneman",
+    quoteText: "People judge experiences based on how they felt at the peak and end."
+  },
+  {
+    category: "Cognitive & Behavioral Design",
+    highlightedWord: "Zeigarnik Effect",
+    reference: "Bluma Zeigarnik",
+    quoteText: "People remember uncompleted or interrupted tasks better than completed ones."
+  },
+  {
     category: "Digital/Product Design",
     highlightedWord: "Material Design Principles",
     reference: "Google",
